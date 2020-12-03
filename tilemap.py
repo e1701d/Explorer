@@ -38,6 +38,6 @@ class Map:
             if image == "floors":
                 t.Floor(data, coords, "floors")
             elif image == "trees":
-                t.Tree(data, coords, "trees")
+                t.Floor(data, coords, "trees")
             elif image == "chest":
                 u.Utility(data, coords, "chest")

@@ -29,6 +29,13 @@ default_tile = {
     }
 }
 
+class Point(pg.sprite.Sprite):
+    def __init__(self, location):
+        super(Point, self).__init__()
+        x = location[0]
+        y = location[1]
+        self.rect = pg.Rect(x, y, 1, 1)
+
 def button(image, x, y, selected_tile):
     mouse = pg.mouse.get_pos()
     click = pg.mouse.get_pressed()
@@ -107,21 +114,29 @@ def handle_clicks(selected_tile):
     
     mouse_pos = pg.mouse.get_pos()
     snapped_mouse = ((mouse_pos[0]+scroll[0])//s.BLOCK_SIZE, (mouse_pos[1]+scroll[1])//s.BLOCK_SIZE)
+    mouse_rel = pg.mouse.get_rel()
     
     scroll_x = 0
     scroll_y = 0
     
+    new_tile = selected_tile
+    
     if mouse[0]:
         if mouse_pos[0] > s.WIDTH//6:
-            new_map.add_tile(snapped_mouse, selected_tile["info"])
-            new_map.data[str(snapped_mouse[1]) + "," + str(snapped_mouse[0])] = {}
-            new_map.data[str(snapped_mouse[1]) + "," + str(snapped_mouse[0])][selected_tile["info"]["image"]] = {}
-            new_map.data[str(snapped_mouse[1]) + "," + str(snapped_mouse[0])][selected_tile["info"]["image"]] = selected_tile
+            new_map.add_tile(snapped_mouse, new_tile["info"])
+            new_map.data[str(snapped_mouse[0]) + "," + str(snapped_mouse[1])] = {}
+            new_map.data[str(snapped_mouse[0]) + "," + str(snapped_mouse[1])][new_tile["info"]["image"]] = {}
+            new_map.data[str(snapped_mouse[0]) + "," + str(snapped_mouse[1])][new_tile["info"]["image"]] = new_tile
     elif mouse[2]:
         if mouse_pos[0] > s.WIDTH//6:
-            new_map.data.pop(str(snapped_mouse[1]) + "," + str(snapped_mouse[0]), None)
+            new_map.data.pop(str(snapped_mouse[0]) + "," + str(snapped_mouse[1]), None)
+            
+            collisions = pg.sprite.spritecollide(Point((mouse_pos[0]+scroll[0], mouse_pos[1]+scroll[1])), g.all_sprites, False)
+            
+            for collision in collisions:
+                collision.kill()
     elif mouse[1]:
-        scroll_x, scroll_y = pg.mouse.get_rel()
+        scroll_x, scroll_y = mouse_rel
         
 def main():
     set_up()
@@ -133,6 +148,8 @@ def main():
                 save_map()
                 pg.quit()
                 quit()
+            elif event.type == pg.MOUSEBUTTONDOWN:
+                print(new_map.data)
                 
         handle_clicks(selected_tile)
         render(selected_tile)

@@ -46,11 +46,11 @@ class Tree(pg.sprite.Sprite):
     def __init__(self, tile, image, location):
         super(Tree, self).__init__()
         self.surf = pg.transform.scale(image, (s.BLOCK_SIZE*4, s.BLOCK_SIZE*4))
-        self.rect = self.surf.get_rect(bottomleft=(location[0], location[1]))
+        self.rect = self.surf.get_rect(bottomleft=(location[0], location[1]-s.BLOCK_SIZE*3))
         self.surf.set_colorkey(s.GREEN)
         
         g.non_solids.add(self)
         g.all_sprites.add(self)
         
-        self.location = location
+        self.location = (location[0], location[1]-s.BLOCK_SIZE*3)
         self.image = image
