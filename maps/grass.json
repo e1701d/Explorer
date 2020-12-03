@@ -1,0 +1,31 @@
+{
+	"0,0": {
+		"player_spawn": {
+			"info": {
+    			"image": "NULL",
+    			"player_spawn": "TRUE"
+			}
+		}
+	},
+
+	"0,2": {
+		"grass": {
+			"info": {
+    			"image": "dirt",
+    			"player_spawn": "TRUE",
+    			"is_solid": "TRUE",
+    			"can_climb": "FALSE"
+    		}
+		}
+	},
+	"1,2": {
+    	"grass": {
+        	"info": {
+            	"image": "grass",
+            	"player_spawn": "TRUE",
+            	"is_solid": "TRUE",
+            	"can_climb": "FALSE"
+        	}
+    	}
+	}
+}

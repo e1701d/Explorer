@@ -1,0 +1,2210 @@
+{
+    "0,0": {
+        "player_spawn": {
+            "info": {
+                "image": "NULL",
+                "player_spawn": "TRUE"
+            }
+        }
+    },
+    "0,2": {
+        "grass": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "TRUE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "1,2": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "TRUE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,17": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,18": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,18": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,18": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,17": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,17": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,12": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,11": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,11": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,11": {
+        "grass": {
+            "info": {
+                "image": "grass_edge_r",
+                "player_spawn": "FALSE",
+                "is_solid": "FALSE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,12": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,13": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,15": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,17": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,18": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,18": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "10,18": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,18": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,7": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,13": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,13": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,13": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "18,13": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "18,12": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "18,11": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "18,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "18,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "18,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,7": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,7": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,6": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,6": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,6": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,6": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,7": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,7": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,7": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,12": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,11": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,11": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,11": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,11": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,12": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,14": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "18,14": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-42,144": {
+        "grass_corner_l": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-42,145": {
+        "grass_corner_l": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-43,150": {
+        "grass_corner_r": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-40,149": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-40,148": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-38,148": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-38,149": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-38,150": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-39,150": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-39,149": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-40,147": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-40,146": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-39,146": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-38,146": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-37,146": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-37,147": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-37,148": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-50,142": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-49,147": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-48,147": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-47,147": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-46,147": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-46,148": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-45,148": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-45,149": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-46,149": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-46,150": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-47,151": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-48,151": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-47,150": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-47,149": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-44,150": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-44,151": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-44,152": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-44,153": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-45,153": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-46,153": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-145,410": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-145,411": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-145,413": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-144,414": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-144,415": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-145,415": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-146,415": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-1,284": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-1,283": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-1,282": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-1,281": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-1,280": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-1,279": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "-1,278": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,283": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,282": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,281": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,280": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,279": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,278": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,277": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,275": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,274": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,273": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "10,272": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,271": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,271": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,271": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,271": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,271": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,272": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,272": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,273": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,274": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,275": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "17,276": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,277": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,277": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,278": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,278": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,278": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,277": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "3,277": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "3,276": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,275": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,275": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,274": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,274": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,275": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "10,275": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,276": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,277": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,279": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,280": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,281": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,282": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,283": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,284": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "10,284": {
+        "grass": {
+            "info": {
+                "image": "grass",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,7": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,6": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "15,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,15": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "16,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "10,17": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,17": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,16": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,17": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,13": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,14": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,14": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,15": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,15": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,14": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "14,13": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "13,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "12,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "11,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "10,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "9,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "8,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,8": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,9": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,10": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,5": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,1": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "3,2": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "3,3": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,3": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,4": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,4": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,4": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,3": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,2": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,2": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,3": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,2": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,1": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "2,2": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "2,1": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "2,0": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "3,0": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "3,1": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,0": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "4,-1": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,-1": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,0": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "5,1": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "6,0": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,2": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    },
+    "7,3": {
+        "dirt": {
+            "info": {
+                "image": "dirt",
+                "player_spawn": "FALSE",
+                "is_solid": "TRUE",
+                "can_climb": "FALSE"
+            }
+        }
+    }
+}
